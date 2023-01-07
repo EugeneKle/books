@@ -1,24 +1,20 @@
 {
   "books": [
     {
-      "title": "DDD",
+      "title": "Harry Potter",
       "id": 5
     },
     {
-      "title": "",
+      "title": "Lord of Rings",
       "id": 6
     },
     {
-      "title": "sdfdsf",
+      "title": "Game of Thrones",
       "id": 7
     },
     {
-      "title": "",
+      "title": "Dark Tower",
       "id": 8
-    },
-    {
-      "title": "",
-      "id": 9
     }
   ]
 }
