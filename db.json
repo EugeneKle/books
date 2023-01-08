@@ -9,12 +9,16 @@
       "id": 6
     },
     {
-      "title": "Game of Thrones",
+      "title": "Robin Hood",
       "id": 7
     },
     {
-      "title": "Dark Tower",
+      "title": "Vimpire",
       "id": 8
+    },
+    {
+      "title": "Java Script ES6",
+      "id": 9
     }
   ]
 }
